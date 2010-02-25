@@ -1,0 +1,22 @@
+# cdd.vim - cdd for vim
+
+## Description
+
+Do you know very useful zsh script cdd?
+
+It is useful for screen.
+
+And I use vim too, I want cdd for vim.
+
+## Install
+
+download cdd.vim and place to ~/.vim/plugin .
+
+## Usage
+
+  :Cdd 0
+  :Cdd hoge
+
+## Links
+
+* [cdd](http://svn.coderepos.org/share/lang/zsh/cdd/cdd)
